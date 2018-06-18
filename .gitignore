@@ -1,2 +1,3 @@
-.logs/**
-.data/**
+/.logs/**
+/.data/users/*.json
+/.data/tokens/*.json
