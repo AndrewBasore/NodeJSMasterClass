@@ -1,0 +1,3 @@
+.data/checks/*.json
+.data/tokens/*.json
+.data/users/*.json
